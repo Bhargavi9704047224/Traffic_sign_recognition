@@ -1,0 +1,18 @@
+# Core Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Image Processing
+opencv-python
+Pillow
+
+# Machine Learning / Deep Learning
+tensorflow
+keras
+scikit-learn
+
+# Utilities
+tqdm
